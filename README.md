@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ahmed1027
+- 🌱 I’m currently learning Python and Javascript
